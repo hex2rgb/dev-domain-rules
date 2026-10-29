@@ -1,18 +1,18 @@
 # Python PyPI 官方源
-+.pypi.org
-+.pythonhosted.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
 # PyTorch 官方包
-+.pytorch.org
+DOMAIN-SUFFIX,pytorch.org
 # HuggingFace 模型、数据集
-+.huggingface.co
-+.hf.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
 # GitHub 代码、Release、资源
-+.github.com
+DOMAIN-SUFFIX,github.com
 # NPM 官方源
-+.npmjs.org
+DOMAIN-SUFFIX,npmjs.org
 # Android Gradle / Maven 仓库
-+.maven.org
-+.gradle.org
-maven.google.com
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,gradle.org
+DOMAIN,maven.google.com
 # 前端CDN
-+.jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.net
