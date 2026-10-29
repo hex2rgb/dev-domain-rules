@@ -1,0 +1,18 @@
+# Python PyPI 官方源
++.pypi.org
++.pythonhosted.org
+# PyTorch 官方包
++.pytorch.org
+# HuggingFace 模型、数据集
++.huggingface.co
++.hf.co
+# GitHub 代码、Release、资源
++.github.com
+# NPM 官方源
++.npmjs.org
+# Android Gradle / Maven 仓库
++.maven.org
++.gradle.org
+maven.google.com
+# 前端CDN
++.jsdelivr.net
