@@ -1,18 +1,13 @@
-# Python PyPI 官方源
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,pythonhosted.org
-# PyTorch 官方包
-DOMAIN-SUFFIX,pytorch.org
-# HuggingFace 模型、数据集
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,hf.co
-# GitHub 代码、Release、资源
-DOMAIN-SUFFIX,github.com
-# NPM 官方源
-DOMAIN-SUFFIX,npmjs.org
-# Android Gradle / Maven 仓库
-DOMAIN-SUFFIX,maven.org
-DOMAIN-SUFFIX,gradle.org
-DOMAIN,maven.google.com
-# 前端CDN
-DOMAIN-SUFFIX,jsdelivr.net
+payload:
+  - '+.pypi.org'
+  - '+.pythonhosted.org'
+  - '+.pytorch.org'
+  - '+.huggingface.co'
+  - '+.hf.co'
+  - '+.github.com'
+  - '+.githubusercontent.com'
+  - '+.npmjs.org'
+  - '+.maven.org'
+  - '+.gradle.org'
+  - 'maven.google.com'
+  - '+.jsdelivr.net'
