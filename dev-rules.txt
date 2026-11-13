@@ -11,3 +11,4 @@ payload:
   - '+.gradle.org'
   - 'maven.google.com'
   - '+.jsdelivr.net'
+  - '+.civitai.com'
